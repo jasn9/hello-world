@@ -1,6 +1,7 @@
-print("GSoC")
+print("Enter No.")
 n = int(input())
 arr = []
+print("Enter Array")
 for i in range(0,n):
     n = int(input())
     arr.append(n)

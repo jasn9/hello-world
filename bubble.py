@@ -1,4 +1,5 @@
 print("GSoC")
+print("hello")
 n = int(input())
 arr = []
 for i in range(0,n):

@@ -2,7 +2,7 @@ print("Enter No.")
 n = int(input())
 arr = []
 print("Enter Array")
-for i in range(0,n):
+for i in range(-1,n-1):
     n = int(input())
     arr.append(n)
 n = len(arr)
